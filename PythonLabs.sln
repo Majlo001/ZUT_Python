@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLab2", "PythonLab2\PythonLab2.pyproj", "{E7DAD741-F0C2-4302-8D3A-17266C466650}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLab3", "PythonLab3\PythonLab3.pyproj", "{E4D3B219-B6DA-47CA-81BF-0F701DEEE5C2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLab4", "PythonLab4\PythonLab4.pyproj", "{BC880465-ECBA-46AB-AB93-6075EDEB9AB0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLab5", "PythonLab5\PythonLab5.pyproj", "{E048A89F-A472-41B9-AB65-41F81A9EA30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DAD741-F0C2-4302-8D3A-17266C466650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DAD741-F0C2-4302-8D3A-17266C466650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D3B219-B6DA-47CA-81BF-0F701DEEE5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D3B219-B6DA-47CA-81BF-0F701DEEE5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC880465-ECBA-46AB-AB93-6075EDEB9AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC880465-ECBA-46AB-AB93-6075EDEB9AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E048A89F-A472-41B9-AB65-41F81A9EA30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E048A89F-A472-41B9-AB65-41F81A9EA30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC33034-0642-460E-9257-7B535A1CE668}
+	EndGlobalSection
+EndGlobal
